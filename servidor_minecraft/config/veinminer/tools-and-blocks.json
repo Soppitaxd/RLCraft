@@ -1,0 +1,132 @@
+{
+  "tools": {
+    "axe": {
+      "name": "Axe",
+      "icon": "minecraft:diamond_axe",
+      "toollist": [
+        "minecraft:diamond_axe",
+        "minecraft:golden_axe",
+        "minecraft:iron_axe",
+        "minecraft:stone_axe",
+        "minecraft:wooden_axe"
+      ],
+      "blocklist": [
+        "betternether:stalagnate_stem/0",
+        "defiledlands:tenebra_leaves/0",
+        "defiledlands:tenebra_log/0",
+        "minecraft:bookshelf",
+        "minecraft:fence",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:log",
+        "minecraft:log2",
+        "quark:variant_leaves",
+        "rustic:leaves/0",
+        "rustic:leaves/1",
+        "rustic:leaves_apple/0",
+        "rustic:log/0",
+        "rustic:log/1",
+        "traverse:brown_autumnal_leaves/0",
+        "traverse:fir_leaves/0",
+        "traverse:fir_log/0",
+        "traverse:orange_autumnal_leaves/0",
+        "traverse:red_autumnal_leaves/0",
+        "traverse:yellow_autumnal_leaves/0"
+      ]
+    },
+    "hoe": {
+      "name": "Hoe",
+      "icon": "minecraft:diamond_hoe",
+      "toollist": [
+        "minecraft:diamond_hoe",
+        "minecraft:golden_hoe",
+        "minecraft:iron_hoe",
+        "minecraft:stone_hoe",
+        "minecraft:wooden_hoe"
+      ],
+      "blocklist": [
+        "minecraft:carrots",
+        "minecraft:melon_block",
+        "minecraft:potatoes",
+        "minecraft:pumpkin",
+        "minecraft:wheat"
+      ]
+    },
+    "pickaxe": {
+      "name": "Pickaxe",
+      "icon": "minecraft:diamond_pickaxe",
+      "toollist": [
+        "minecraft:diamond_pickaxe",
+        "minecraft:golden_pickaxe",
+        "minecraft:iron_pickaxe",
+        "minecraft:stone_pickaxe",
+        "minecraft:wooden_pickaxe"
+      ],
+      "blocklist": [
+        "betternether:cincinnasite_ore/0",
+        "defiledlands:hephaestite_ore/0",
+        "defiledlands:scarlite_ore/0",
+        "defiledlands:umbrium_ore/0",
+        "iceandfire:sapphire_ore/0",
+        "iceandfire:silver_ore/0",
+        "minecraft:coal_ore",
+        "minecraft:cobblestone",
+        "minecraft:cobblestone_wall",
+        "minecraft:diamond_ore",
+        "minecraft:emerald_ore",
+        "minecraft:glowstone",
+        "minecraft:gold_ore",
+        "minecraft:iron_ore",
+        "minecraft:lapis_ore",
+        "minecraft:lit_redstone_ore",
+        "minecraft:mossy_cobblestone",
+        "minecraft:nether_brick_fence",
+        "minecraft:quartz_ore",
+        "minecraft:redstone_ore",
+        "scalinghealth:crystalore",
+        "xo:xp_ore"
+      ]
+    },
+    "shears": {
+      "name": "Shears",
+      "icon": "minecraft:shears",
+      "toollist": [
+        "minecraft:shears"
+      ],
+      "blocklist": [
+        "defiledlands:tenebra_leaves/0",
+        "minecraft:deadbush",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:tallgrass",
+        "minecraft:vine",
+        "minecraft:web",
+        "minecraft:wool",
+        "quark:variant_leaves",
+        "rustic:leaves/0",
+        "rustic:leaves/1",
+        "rustic:leaves_apple/0",
+        "traverse:brown_autumnal_leaves/0",
+        "traverse:fir_leaves/0",
+        "traverse:orange_autumnal_leaves/0",
+        "traverse:red_autumnal_leaves/0",
+        "traverse:yellow_autumnal_leaves/0"
+      ]
+    },
+    "shovel": {
+      "name": "Shovel",
+      "icon": "minecraft:diamond_shovel",
+      "toollist": [
+        "minecraft:diamond_shovel",
+        "minecraft:golden_shovel",
+        "minecraft:iron_shovel",
+        "minecraft:stone_shovel",
+        "minecraft:wooden_shovel"
+      ],
+      "blocklist": [
+        "minecraft:clay",
+        "minecraft:gravel"
+      ]
+    }
+  }
+}
